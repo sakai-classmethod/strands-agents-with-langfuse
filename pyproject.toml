@@ -1,0 +1,12 @@
+[project]
+name = "strands-agents-with-langfuse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "argparse>=1.4.0",
+    "dotenv>=0.9.9",
+    "strands-agents>=1.12.0",
+    "strands-agents-tools>=0.2.11",
+]
